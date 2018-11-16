@@ -1,0 +1,23 @@
+  <?php 
+  $name='name';
+  $surname='surname';
+  $patronymic='patronymic';
+  $phone='phone';
+  $city='citizenship';
+  $date='date';
+  $iin='iin';
+  $nat='nationality';
+  $gender='male_or_female';
+  $location='location';
+  $due='due_to';
+  $soc_status='soc_status';
+  $form='form_of_training';
+  $cer='cer_ent';
+  $lang='education_language';
+  $med=' med_reference';
+  $qual='qualification';
+  $receipt='receipt_no';
+  $statement='statement'; 
+  $base='base'; 
+  $note='note';
+   ?>
